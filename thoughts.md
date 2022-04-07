@@ -4,3 +4,6 @@ My second take-away was Git. I think it is a really useful system, I liked the p
 First strategy I am going to use is from the calendaring, I am going to break up my time into smaller more manageable chunks in-order to direct my focus.
 
 Second strategy I am going to implement is relying on my cohort for help.
+
+Shoutout to Cole for all his help with Git yesterday!
+Shoutout to my girlfriend, family and friends for supporting my Turing adventure.

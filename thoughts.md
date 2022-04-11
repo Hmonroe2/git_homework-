@@ -7,3 +7,5 @@ My second take-away was Git. I think it is a really useful system, I liked the p
 
 * Shoutout to Cole for all his help with Git yesterday!
 Shoutout to my girlfriend, family and friends for supporting my Turing adventure.
+* trying out pull 
+* 

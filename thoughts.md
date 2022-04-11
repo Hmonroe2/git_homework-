@@ -5,5 +5,5 @@ My second take-away was Git. I think it is a really useful system, I liked the p
 
  * Second strategy I am going to implement is relying on my cohort for help.
 
-Shoutout to Cole for all his help with Git yesterday!
+* Shoutout to Cole for all his help with Git yesterday!
 Shoutout to my girlfriend, family and friends for supporting my Turing adventure.
